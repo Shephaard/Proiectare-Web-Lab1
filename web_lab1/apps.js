@@ -1,6 +1,5 @@
 let x = +prompt("Type a number X: ");
 let y = +prompt("Type a number Y: ");
-
 console.log("X = "+x+", Y = "+y);
 
 console.log("X + Y = " + (x + y).toString());
